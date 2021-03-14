@@ -1,0 +1,66 @@
+
+h3{
+color:white;  
+}
+
+.searchbar{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+ 
+}
+
+.card{
+    border-radius: 20px;
+    width: 300px;
+    margin:15px;
+    box-shadow: 2px 2px 30px -6px blue;
+}
+
+#list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.send{
+ color: WHITE;
+ background-color:blue;
+ border-radius: 15px;
+ border: solid 1px blue;
+}
+
+#app-search{
+border-radius: 15px;
+width: 30%;
+
+}
+
+h3{
+    font-family: 'Actor', sans-serif;
+}
+
+h1{
+    font-family: 'Barlow', sans-serif;
+}
+
+h5 {
+ font-family: 'Barlow', sans-serif;
+}
+
+
+p {
+text-align: center;
+ font-family: 'DM Serif Text', sans-serif;
+}
+
+#location{
+ border-radius: 15px;
+ width: 25%;
+}
+
+.nav-link{
+color: white;
+
+}
+
